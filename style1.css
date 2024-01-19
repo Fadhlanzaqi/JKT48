@@ -1,0 +1,15 @@
+
+#sliderimg {
+    padding-top: 6rem;
+    background-image: linear-gradient(to bottom, #ffc107, #f0b82a, #e0af3b, #d1a648, #c19d53, #c1a160, #c1a46d, #c0a87a, #d0b98e, #dfcaa2, #efdcb6, #ffeecb);
+}
+
+#about {
+    padding-top: 1rem;
+    background-color: #ffc107;
+    }
+
+#theater {
+    padding-top: 1rem;
+    background-color: #ffeecb;
+    }
